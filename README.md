@@ -6,3 +6,5 @@ An Xcode project that demonstrates how to use the **`DurableGuide`** Swift Packa
 See the [**README**](https://github.com/durablebrandsoftware/DurableGuide) in the **`DurableGuide`** Swift Package for more details.
 
 https://github.com/durablebrandsoftware/DurableGuide
+
+ See the `DemoView.swift` file in this project for details.
